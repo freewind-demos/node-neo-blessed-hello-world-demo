@@ -1,0 +1,11 @@
+{
+  "name": "node-neo-blessed-hello-world-demo",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "neo-blessed": "^0.2.0"
+  }
+}
